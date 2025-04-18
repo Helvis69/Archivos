@@ -1,0 +1,5 @@
+# Ignorar todo excepto lo que queremos
+/*
+!.gitignore
+!ImagenesVoidew/
+
